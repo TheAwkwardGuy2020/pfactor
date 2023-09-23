@@ -11,5 +11,6 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/TheAwkwardGuy2020/pfactor"
-  }
+  },
+  "keywords": ["prime", "factors", "prime factorization"]
 }
