@@ -1,6 +1,6 @@
 {
   "name": "pfactor",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Find prime factors.",
   "main": "app.js",
   "scripts": {
@@ -11,5 +11,5 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/TheAwkwardGuy2020/pfactor"
-}
+  }
 }
